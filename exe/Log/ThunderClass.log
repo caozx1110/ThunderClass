@@ -9292,3 +9292,19 @@ Message: TP: clean MsgRecv&Process thread handle
 Message: TP: offline all students
 [Debug] [2022-03-31 14:11:01]  [..\ThunderClass\teacherprocess.cpp: Line: 173]  [Function: bool TeacherProcess::EndClass()] 
 Message: TP: class end
+[Warning] [2022-03-31 14:23:46]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot AdminWindow::TimerEvent()
+[Warning] [2022-03-31 14:23:46]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'AdminWindow')
+[Warning] [2022-03-31 14:23:59]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot AdminWindow::TimerEvent()
+[Warning] [2022-03-31 14:23:59]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'AdminWindow')
+[Warning] [2022-03-31 14:24:05]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot AdminWindow::TimerEvent()
+[Warning] [2022-03-31 14:24:05]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'AdminWindow')
+[Warning] [2022-03-31 14:24:15]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot AdminWindow::TimerEvent()
+[Warning] [2022-03-31 14:24:15]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'AdminWindow')
